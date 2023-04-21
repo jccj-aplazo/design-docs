@@ -8,18 +8,18 @@ Status: [Draft]
 Ultima actualización: 2023-04-23
 
 ## Contenido
-- Links
-- Objetivo
-- Consideraciones
-- Goals
-- Non-Goals
-- Background
-- Características
-- Requisitos
-- Overview
-- Detailed Design
+1. Links
+2. Objetivo
+3. Consideraciones
+4. Goals
+5. Non-Goals
+6. Background
+7. Características
+8. Requisitos
+9. Overview
+10. Detailed Design
   - Solucion
-    - Frontend
+    1. Frontend
 
 - Metricas
 
