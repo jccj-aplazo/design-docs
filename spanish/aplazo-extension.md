@@ -18,15 +18,19 @@ Ultima actualización: 2023-04-23
 8. Requisitos
 9. Overview
 10. Detailed Design
-  - Solucion
+  - Solucion 1
     1. Frontend
-
-- Metricas
+    2. Backend
 
 ## Links
   - [Figma](https://www.figma.com/file/msAuiZupb9LPSR1tFacmeo/Extension-Chrome?node-id=1%3A10&t=uELBa8RhIQXTPUTP-1)
   - [Ticket discovery](https://aplazo.atlassian.net/browse/B2C-2097)
   - [Course](https://aplazo.udemy.com/course/chrome-extension/)
+  - [Chrome extensions documentation](https://developer.chrome.com/docs/extensions/)
+  - [Manifest file reference](https://developer.chrome.com/docs/extensions/mv3/manifest/)
+  - [API reference](https://developer.chrome.com/docs/extensions/mv3/manifest/)
+  - [MDN ServiceWorkerRegistration notification reference](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerRegistration/showNotification)
+  - [Service Worker primer](https://developer.chrome.com/docs/workbox/service-worker-overview/)
 
 ## Objetivo
 Crear una extensión para chrome que nos permita generar VC para comercios online.
@@ -50,6 +54,8 @@ Se inicio con una idea en el primer hackaton de aplazo debido a que necesitabamo
 Actualmente hay otras empresas con el mismo giro (BNPL) que cuentan con este tipo de herramientas (add-on's)
 
 ## Características
+  - Display pop up notifications
+  - Be able to create a VC
 
 ## Requisitos
 
